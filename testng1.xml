@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite1" allow-return-values="true">
+
+<test name = "exampleTest1">
+<classes>
+<class name = "com.cmpnyname.projectname.TestPrintMessage"></class>
+</classes>
+</test>
+
+<test name = "exampleTest2">
+<classes>
+<class name = "com.cmpnyname.projectname.TestPrintSalMessage"></class>
+</classes>
+</test>
+
+
+</suite>
